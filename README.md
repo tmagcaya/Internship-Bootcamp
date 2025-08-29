@@ -2,48 +2,35 @@
 
 > **Helping students find internships through proven strategies, mentorship, and community support**
 
-In today’s competitive job market, finding an internship is essential to guarantee a strong career. This repository is dedicated to helping students (High School & Undergrad) secure internships. In addition posting content here, I also organize a virtual study group for a limited cohort of students to provide extra support and guidance.  
+In today’s competitive job market, finding an internship is essential to guarantee a strong career. This repository is dedicated to helping students (High School & Undergrad) secure internships. In addition posting content here, I also organize a virtual study group for a limited cohort of students to provide extra support and guidance. 
 
 ---
 
-## 🔥 Upcoming Programs
+## 🔥 Upcoming Virtual Study Programs
 
 | Cohort | Dates | Applications | Status |
 |--------|--------|--------------|--------|
 | **Cohort 4** | Sep 7 - Oct 5, 2025 | [Apply Here](#) | 🟢 **Accepting Applications** *Deadline: Sep 4* |
-| **Cohort 5** | Oct 19 - Nov 16, 2025 | [Apply Here](#) |  🟡 **Opening Soon** *Applications open Oct 1* |
-| **Cohort 6** | Jan 11 - Feb 8, 2026 | [Apply Here](#) |  🔴 **Not Yet Open** *Applications open Dec 15* |
-| **Cohort 7** | Feb 22 - Mar 22, 2026 | [Apply Here](#) |  🔴 **Not Yet Open** *Applications open Feb 1* |
+| **Cohort 5** | Oct 19 - Nov 16, 2025 | [Apply Here](#) |  🟢 **Accepting Applications** *Deadline: Oct 10*  |
+| **Cohort 6** | Jan 11 - Feb 8, 2026 | [Coming Soon](#) | 🟡 **Opening Soon** *Applications open Dec 15* |
+| **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🔴 **Not Yet Open** *Applications open Feb 1* |
 
 > **Note:** Each cohort is limited to 10 Tier 1 (Insider) members. General Admission has no limit.
 > 🏆 [Success Metrics and Testimonials from Past Cohorts](./content/testimonials.md)
 
 ---
 
-## 📖 About the Program
+## 📖 About the Virtual Study Program
 
 - **For Industry and University Internships** to improve options
 - **Proven strategies** from someone who interned at university and industry roles → CMU, GMU, NRL, Facebook
 - **Focus Areas:** Applications, networking, reachout templates, resume strategy
-
-### Program Structure
-- **Duration:** 5 weeks per cohort
-- **Weekly Sessions:** Sundays 10 - 11 AM PST
-- **Silent Work Sessions:** Sundays 11 AM - 12 PM PST
-
-### Who This Is For
-- High School Juniors & Seniors
-- Undergrad students (all years)
-- US-based students only
-- CS and Engineering students (for Tier 1)
-
----
-
-## 💰 Pricing & Tiers
-
-### Tier 1: Insider Cohort - $200
-**Limited to 10 members only**
-- ✅ Weekly check-ins and dedicated support
+- Must be a US-based CS/Engineering student who is eligible for internships to qualify
+  
+### Tier 1: Insider Cohort - \$200  (\$20/session)
+**Limited to 10 students only**
+- ✅ 5 Weekly cohort meetings (Sundays 10 - 11:30 AM PST)
+- ✅ 5 Office hour check-ins after the program
 - ✅ Resume, LinkedIn, and portfolio reviews
 - ✅ Winning email and resume templates
 - ✅ Network referrals within mentor's LinkedIn network
@@ -51,12 +38,11 @@ In today’s competitive job market, finding an internship is essential to guara
 - ✅ **Full refund guarantee** if you don't find an internship (requirements must be met)
 
 ### Tier 2: General Admission - $50
-- ✅ Access to all weekly sessions
+- ✅ 5 Weekly cohort sessions
 - ✅ WhatsApp channel access
 - ✅ Basic templates and resources
 
 > **Scholarships available for both tiers** - financial need should not be a barrier
-
 ---
 
 ## 📚 Resources
@@ -80,14 +66,16 @@ I'll be regularly posting:
 
 ---
 
-
 ## ❓ FAQ
 
 **Q: Is the first session really free?**  
 A: Yes! The first session of each cohort is free to attend - no commitment required.
 
-**Q: What if I'm not US-based?**  
-A: My strategies are optimized for US opportunities, please check back later.
+**Q: Why only for US-based CS/Engineering student?**  
+A: My experience is limited to this category for now, please check back later for any changes. I might make exceptions for Tier 2 applicants.
+
+**Q: What does eligible for internships mean?**  
+A: All students except for current college seniors.
 
 **Q: Do you guarantee internship placement?**  
 A: Tier 1 comes with a full refund if you don't secure an internship AND complete all requirements.
