@@ -2,7 +2,7 @@
 
 > **Helping students find internships through proven strategies, mentorship, and community support**
 
-In today’s competitive job market, finding an internship is essential to guarantee a strong career. This repository is dedicated to helping students (High School & Undergrad) secure internships. In addition posting content here, I also organize a virtual study group for a limited cohort of students to provide extra support and guidance. 
+In today’s competitive job market, finding an internship is essential to guarantee a strong career. This program is led by Talha Agcayazi, PhD, who started his career through an internship at Carnegie Mellon University which helped him find his full time role at Facebook. This virtual study program provides proven strategies, email templates and mentorship for securing research internships. 
 
 ---
 
@@ -10,8 +10,8 @@ In today’s competitive job market, finding an internship is essential to guara
 
 | Cohort | Dates | Applications | Status |
 |--------|--------|--------------|--------|
-| **Cohort 4** | Sep 7 - Oct 5, 2025 | [Apply Here](#) | 🟢 **Accepting Applications** *Deadline: Sep 4* |
-| **Cohort 5** | Oct 19 - Nov 16, 2025 | [Apply Here](#) |  🟢 **Accepting Applications** *Deadline: Oct 10*  |
+| **Cohort 4** | Sep 7 - Oct 5, 2025 | [Apply Here](https://forms.gle/8wv68873XM23tuHV9) | 🟢 **Accepting Applications** *Deadline: Sep 4* |
+| **Cohort 5** | Oct 19 - Nov 16, 2025 | [Apply Here](https://forms.gle/SQyHxPYpDDg9iV3M8) |  🟢 **Accepting Applications** *Deadline: Oct 10*  |
 | **Cohort 6** | Jan 11 - Feb 8, 2026 | [Coming Soon](#) | 🟡 **Opening Soon** *Applications open Dec 15* |
 | **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🔴 **Not Yet Open** *Applications open Feb 1* |
 
@@ -27,7 +27,7 @@ In today’s competitive job market, finding an internship is essential to guara
 - **Focus Areas:** Applications, networking, reachout templates, resume strategy
 - Must be a US-based CS/Engineering student who is eligible for internships to qualify
   
-### Tier 1: Insider Cohort - \$200  (\$20/session)
+### Tier 1: Insider Cohort - \$200  (only \$20/session)
 **Limited to 10 students only**
 - ✅ 5 Weekly cohort meetings (Sundays 10 - 11:30 AM PST)
 - ✅ 5 Office hour check-ins after the program
