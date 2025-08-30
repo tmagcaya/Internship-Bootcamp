@@ -42,20 +42,27 @@ In today’s competitive job market, finding an internship is essential to guara
 > **Scholarships available for both tiers** - financial need should not be a barrier
 ---
 
-## 📚 Resources
 
 ### 📁 Program Materials
-- [Session Recordings](./resources/) *(Coming Soon)*
-- [Email Templates](./resources/templates/) *(Coming Soon)*
-- [Resume Examples](./resources/resumes/) *(Coming Soon)*
-- [AI Engineering Internship List](./resources/ai-internships.md) *(Coming Soon)*
+- **Week 1:** Why Internship, Resume Structure, Linkedin Strategy 
+- **Week 2:** Application Strategy (Reach/Safe), Portfolio, Github, AI native
+- **Week 3:** Interview Prep (Leetcode, Behavioral, Articles/Papers)
+- **Week 4:** Email/Reachout template, Linkedin Reachout Strategy
+- **Week 5:** Prep for Return Offer, Startup Internships, Unpaid Internships, Dissemination
+> I'll open source my program as I find time, please send a PR if you want to contribute. 
 
 ### 🏆 Success Stories
 - [Testimonials](./content/testimonials.md) - See what past participants achieved
 - [Case Studies](./testimonials/case-studies.md) - Detailed success breakdowns (Coming soon)
 
+### Links
+- [Industry Internships List - Simplify](https://github.com/SimplifyJobs/Summer2026-Internships?tab=readme-ov-file#-software-engineering-internship-roles)
+- [Paid Research Internship List - NSF ETAP](https://etap.nsf.gov/search)
+- [Paid Research Internship List - NSF REU](https://www.nsf.gov/funding/initiatives/reu/search)
+
+
 ### 📊 Additional Content
-My intention is to spend less time on this overall so I'll open source all of my content as I find time. I'll be posting about:
+I'll be posting about:
 - **AI Engineering Internship Opportunities** 
 - **University Research Lab Spotlights**
 - **Application Strategy Guides**
