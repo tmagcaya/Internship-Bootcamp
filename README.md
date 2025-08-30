@@ -42,9 +42,8 @@ In today’s competitive job market, finding an internship is essential to guara
 > **Scholarships available for both tiers** - financial need should not be a barrier
 ---
 
-
 ### 📁 Program Materials
-- **Week 1:** Why Internship, Resume Structure, Linkedin Strategy 
+- **Week 1:** Why an Internship, Cultural Alignment, Resume Structure, Linkedin Strategy 
 - **Week 2:** Application Strategy (Reach/Safe), Portfolio, Github, AI native
 - **Week 3:** Interview Prep (Leetcode, Behavioral, Articles/Papers)
 - **Week 4:** Email/Reachout template, Linkedin Reachout Strategy
@@ -61,7 +60,14 @@ In today’s competitive job market, finding an internship is essential to guara
 - [Paid Research Internship List - NSF REU](https://www.nsf.gov/funding/initiatives/reu/search)
 
 
+### Links
+- [Industry Internships List - Simplify](https://github.com/SimplifyJobs/Summer2026-Internships?tab=readme-ov-file#-software-engineering-internship-roles)
+- [Paid Research Internship List - NSF ETAP](https://etap.nsf.gov/search)
+- [Paid Research Internship List - NSF REU](https://www.nsf.gov/funding/initiatives/reu/search)
+
+
 ### 📊 Additional Content
+I'll be posting about:
 I'll be posting about:
 - **AI Engineering Internship Opportunities** 
 - **University Research Lab Spotlights**
