@@ -1,9 +1,7 @@
 # 🚀 Internship Bootcamp - Land Your First Internship
 
-> **Helping students find internships through proven strategies, mentorship, and community support**
-
-In today’s competitive job market, finding an internship is essential to guarantee a strong career. This program is led by Talha Agcayazi, PhD, who started his career through an internship at Carnegie Mellon University which helped him find his full time role at Facebook. This virtual study program provides proven strategies, email templates and mentorship for securing research internships. 
-
+In today’s competitive job market, finding an internship is essential to guarantee a strong career. This virtual study program is led by Talha Agcayazi, PhD, who started his career through an internship at Carnegie Mellon University which helped him find his full time role at Facebook. The program provides proven strategies, email templates and mentorship for securing research internships. 
+> **🏆 [75% Internship Offer Success Rate - Testimonials from Past Cohorts](./content/testimonials.md)**
 ---
 
 ## 🔥 Upcoming Virtual Study Programs
@@ -16,7 +14,6 @@ In today’s competitive job market, finding an internship is essential to guara
 | **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🔴 **Not Yet Open** *Applications open Feb 1* |
 
 > **Note:** Each cohort is limited to 10 Tier 1 (Insider) members. General Admission has no limit.
-> 🏆 [Success Metrics and Testimonials from Past Cohorts](./content/testimonials.md)
 
 ---
 
@@ -54,11 +51,11 @@ In today’s competitive job market, finding an internship is essential to guara
 - [AI Engineering Internship List](./resources/ai-internships.md) *(Coming Soon)*
 
 ### 🏆 Success Stories
-- [Testimonials](./testimonials/) - See what past participants achieved
-- [Case Studies](./testimonials/case-studies.md) - Detailed success breakdowns
+- [Testimonials](./content/testimonials.md) - See what past participants achieved
+- [Case Studies](./testimonials/case-studies.md) - Detailed success breakdowns (Coming soon)
 
 ### 📊 Additional Content
-I'll be regularly posting:
+My intention is to spend less time on this overall so I'll open source all of my content as I find time. I'll be posting about:
 - **AI Engineering Internship Opportunities** 
 - **University Research Lab Spotlights**
 - **Application Strategy Guides**

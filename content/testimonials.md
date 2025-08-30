@@ -8,11 +8,11 @@
 | **Cohort 2** | **75%** | 4 students | 3 secured internships |
 | **Cohort 1** | **50%** | 4 students | 2 secured internships |
 
-> \+ Many success cases among Tier 2 participants. 
+> \+ Many success cases among Tier 2 as well. 
 
 ### 📊 Testimonials
 
-"I got an unpaid offer. The experience was amazing, it taught me a lot, weeks were really well planned out. Gave me a lot of strategies. I loved being able to have one on ones."
+"I secured my first research opportunity thanks to the bootcamp. The weekly sessions and mentorship were extremely practical, everything from resume feedback to interview preparation gave me the confidence to stand out. Talha’s personal advice and care for his students made a huge difference in helping me prepare and understand what recruiters are really looking for. I walked into my internship interviews feeling prepared and walked out with an offer. As a student early in my career, this experience was invaluable and I’m really grateful for the support."
 **- Grasshopper, Cohort 3** | 🔬 *University Research Internship in AI/ML* | 📄 *Published AI Paper*
 
 "Offer from TAMU-CC AgTech REU. The experience was absolutely amazing, there was never a week or session I felt was being wasted. With the bootcamp having plenty of industry mentors and experts come in to provide resources alongside Talha, I was always excited to see who I can connect with and take the next step in my career with each and every week. Talha's own experience with REU's gave a niche personal touch that is hard to find elsewhere. His expertise was incredibly invaluable, sitting with me for up to an hour prepping for my interview 1-on-1 prior to my offer. I don't know if I would have secured the offer without him. Overall, I loved the program and am very thankful for my internship opportunity from this bootcamp, especially as a freshman with no prior internships."
