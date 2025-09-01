@@ -60,14 +60,7 @@ In today’s competitive job market, finding an internship is essential to guara
 - [Paid Research Internship List - NSF REU](https://www.nsf.gov/funding/initiatives/reu/search)
 
 
-### Links
-- [Industry Internships List - Simplify](https://github.com/SimplifyJobs/Summer2026-Internships?tab=readme-ov-file#-software-engineering-internship-roles)
-- [Paid Research Internship List - NSF ETAP](https://etap.nsf.gov/search)
-- [Paid Research Internship List - NSF REU](https://www.nsf.gov/funding/initiatives/reu/search)
-
-
 ### 📊 Additional Content
-I'll be posting about:
 I'll be posting about:
 - **AI Engineering Internship Opportunities** 
 - **University Research Lab Spotlights**
