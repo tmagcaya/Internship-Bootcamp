@@ -8,7 +8,7 @@ In today’s competitive job market, finding an internship is essential to guara
 
 | Cohort | Dates | Applications | Status |
 |--------|--------|--------------|--------|
-| **Cohort 4** | Sep 7 - Oct 5, 2025 | [Apply Here](https://forms.gle/8wv68873XM23tuHV9) | 🟢 **Accepting Applications** *Deadline: Sep 4* |
+| **Cohort 4** | Sep 7 - Oct 5, 2025 | [Apply Here](https://forms.gle/8wv68873XM23tuHV9) | 🟢 **Accepting Applications** *Deadline: Sep 5* |
 | **Cohort 5** | Oct 19 - Nov 16, 2025 | [Apply Here](https://forms.gle/SQyHxPYpDDg9iV3M8) |  🟢 **Accepting Applications** *Deadline: Oct 10*  |
 | **Cohort 6** | Jan 11 - Feb 8, 2026 | [Coming Soon](#) | 🟡 **Opening Soon** *Applications open Dec 15* |
 | **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🔴 **Not Yet Open** *Applications open Feb 1* |
