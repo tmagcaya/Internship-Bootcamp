@@ -1,6 +1,7 @@
 # 🚀 Internship Bootcamp - Land Your First Internship
 
-In today’s competitive job market, finding an internship is essential to guarantee a strong career. This virtual study program is led by Talha Agcayazi, PhD, who started his career through an internship at Carnegie Mellon University which helped him find his full time role at Facebook. The program provides proven strategies, email templates and mentorship for securing research internships. 
+Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.com/in/talha-agcayazi/)) and I'm a Senior AI Engineer @ Doordash. During my education I was offered internships at Facebook, MIT, NASA, CMU, NRL, Los Alamos and Sandia. To give back, I organize internship study groups to help undergrad and high school students find internships. My 4th cohort will begin soon. Deadline is this Friday, Sept 6th: 
+
 > **🏆 [75% Internship Offer Success Rate - Testimonials from Past Cohorts](./content/testimonials.md)**
 ---
 
@@ -8,7 +9,7 @@ In today’s competitive job market, finding an internship is essential to guara
 
 | Cohort | Dates | Applications | Status |
 |--------|--------|--------------|--------|
-| **Cohort 4** | Sep 7 - Oct 5, 2025 | [Apply Here](https://forms.gle/8wv68873XM23tuHV9) | 🟢 **Accepting Applications** *Deadline: Sep 5* |
+| **Cohort 4** | Sep 7 - Oct 5, 2025 | [Apply Here](https://forms.gle/8wv68873XM23tuHV9) | 🟢 **Accepting Applications** *Deadline: Sep 6* |
 | **Cohort 5** | Oct 19 - Nov 16, 2025 | [Apply Here](https://forms.gle/SQyHxPYpDDg9iV3M8) |  🟢 **Accepting Applications** *Deadline: Oct 10*  |
 | **Cohort 6** | Jan 11 - Feb 8, 2026 | [Coming Soon](#) | 🟡 **Opening Soon** *Applications open Dec 15* |
 | **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🔴 **Not Yet Open** *Applications open Feb 1* |
@@ -22,12 +23,12 @@ In today’s competitive job market, finding an internship is essential to guara
 - **For Industry and University Internships** to improve options
 - **Proven strategies** from someone who interned at university and industry roles → CMU, GMU, NRL, Facebook
 - **Focus Areas:** Applications, networking, reachout templates, resume strategy
-- Must be a US-based CS/Engineering student who is eligible for internships to qualify
+- Must be a **US-based CS/Engineering student** who is eligible for internships to qualify
   
 ### Tier 1: Insider Cohort - \$200  (only \$20/session)
 **Limited to 10 students only**
 - ✅ 5 Weekly cohort meetings (Sundays 10 - 11:30 AM PST)
-- ✅ 5 Office hour check-ins after the program
+- ✅ 5 Office hour check-ins after the weekly program ends
 - ✅ Resume, LinkedIn, and portfolio reviews
 - ✅ Winning email and resume templates
 - ✅ Network referrals within mentor's LinkedIn network
@@ -43,7 +44,7 @@ In today’s competitive job market, finding an internship is essential to guara
 ---
 
 ### 📁 Program Materials
-- **Week 1:** Why an Internship, Cultural Alignment, Resume Structure, Linkedin Strategy 
+- **Week 1:** [Why an Internship, Cultural Alignment, Resume Structure, Linkedin Strategy](./content/Week_1/Week1.md)
 - **Week 2:** Application Strategy (Reach/Safe), Portfolio, Github, AI native
 - **Week 3:** Interview Prep (Leetcode, Behavioral, Articles/Papers)
 - **Week 4:** Email/Reachout template, Linkedin Reachout Strategy
