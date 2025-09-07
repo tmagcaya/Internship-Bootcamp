@@ -9,7 +9,7 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 
 | Cohort | Dates | Applications | Status |
 |--------|--------|--------------|--------|
-| **Cohort 4** | Sep 7 - Oct 5, 2025 | [Apply Here](https://forms.gle/8wv68873XM23tuHV9) | 🟢 **Accepting Applications** *Deadline: Sep 6* |
+| **Cohort 4** | Sep 7 - Oct 5, 2025 | [Apply Here](https://forms.gle/8wv68873XM23tuHV9) | 🔴 **Cohort in Session** |
 | **Cohort 5** | Oct 19 - Nov 16, 2025 | [Apply Here](https://forms.gle/SQyHxPYpDDg9iV3M8) |  🟢 **Accepting Applications** *Deadline: Oct 10*  |
 | **Cohort 6** | Jan 11 - Feb 8, 2026 | [Coming Soon](#) | 🟡 **Opening Soon** *Applications open Dec 15* |
 | **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🔴 **Not Yet Open** *Applications open Feb 1* |
@@ -44,7 +44,7 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 ---
 
 ### 📁 Program Materials
-- **Week 1:** [Why an Internship, Cultural Alignment, Resume Structure, Linkedin Strategy](./content/Week_1/Week1.md)
+- **Week 1:** [Application Strategy, Cultural Alignment, Resume Structure, Linkedin Strategy](./content/Week_1/Week_1.md)
 - **Week 2:** Application Strategy (Reach/Safe), Portfolio, Github, AI native
 - **Week 3:** Interview Prep (Leetcode, Behavioral, Articles/Papers)
 - **Week 4:** Email/Reachout template, Linkedin Reachout Strategy

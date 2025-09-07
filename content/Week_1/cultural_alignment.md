@@ -6,7 +6,7 @@
 - **Practice at Career fairs:** These are valuable to meet with engineers and hiring managers. They are there to meet with candidates. Practice your introduction spiel but make sure not to lock yourself in a field. I made this mistake in undergrad where I wasn't successful in these career fairs because I opened up with "Hi my name is xyz and I'm interested in working in robotics...". This locked me into the robotics field which was very tiny at that point and I wasn't able to get the Amazon primeair job because that was an EE internship and not a Robotics internship. Go there with an open mind about what they have. 
 
 
-### Other recommendations: 
+### Other recommendations (Optional Reading): 
 
 #### **1. Navigate the "Self-Promotion vs. Humility" Balance**
 
