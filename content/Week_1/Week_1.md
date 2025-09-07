@@ -6,9 +6,9 @@ Please read the below sections and do the assignments in each section. It's easy
 
 ### Reading:
 - [Application Strategy](strategy.md)
-- [Cultural Alignment](./content/Week_1/cultural_alignment.md)
-- [Resume Structure](./content/Week_1/resume.md)
-- [LinkedIn Strategy](./content/Week_1/linkedin.md)
+- [Cultural Alignment](cultural_alignment.md)
+- [Resume Structure](resume.md)
+- [LinkedIn Strategy](linkedin.md)
 
 ### Assignments:
 1. Revise resume with the above points and send them to me for review with the week 1 google form.
