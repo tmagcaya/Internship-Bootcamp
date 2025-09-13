@@ -7,7 +7,7 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 
 ## 🔥 Upcoming Virtual Study Programs
 
-| Cohort | Dates | Applications | Status |
+| Cohort | Program Dates | Applications | Status |
 |--------|--------|--------------|--------|
 | **Cohort 4** | Sep 7 - Oct 5, 2025 | [Apply Here](https://forms.gle/8wv68873XM23tuHV9) | 🔴 **Cohort in Session** |
 | **Cohort 5** | Oct 19 - Nov 16, 2025 | [Apply Here](https://forms.gle/SQyHxPYpDDg9iV3M8) |  🟢 **Accepting Applications** *Deadline: Oct 10*  |
@@ -45,8 +45,8 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 
 ### 📁 Program Materials
 - **Week 1:** [Application Strategy, Cultural Alignment, Resume Structure, Linkedin Strategy](./content/Week_1/Week_1.md)
-- **Week 2:** Application Strategy (Reach/Safe), Portfolio, Github, AI native
-- **Week 3:** Interview Prep (Leetcode, Behavioral, Articles/Papers)
+- **Week 2:** Interview Prep (Leetcode, Behavioral, Articles/Papers)
+- **Week 3:** Application Strategy (Reach/Safe), Portfolio, Github, AI native
 - **Week 4:** Email/Reachout template, Linkedin Reachout Strategy
 - **Week 5:** Prep for Return Offer, Startup Internships, Unpaid Internships, Dissemination
 > I'll open source my program as I find time, please send a PR if you want to contribute. 
