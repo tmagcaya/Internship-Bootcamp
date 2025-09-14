@@ -3,11 +3,11 @@
 Once you're passed the resume screen, you'll receive a technical interview. For CS students this will be a Leetcode or puzzle coding question. For other Engineering students you'll probably get something related to the topic you're applying for. The goal for this week is to learn the steps to master leetcode regardless of where you're starting from.
 
 ### Reading:
-- [Leetcode Prerequisites](./content/Week_2/preleetcode.md)
-- [Leetcode Core](./content/Week_2/leetcode.md)
-- [Leetcode ++](./content/Week_2/leetcode++.md)
-- [Other Interviews (Hardware, University Lab, Startups)](./content/Week_2/other_interviews.md)
-- [Behavioral](./content/Week_2/behavioral.md)
+- [Leetcode Prerequisites](https://github.com/tmagcaya/Internship-Bootcamp/blob/main/content/Week_2/preleetcode.md)
+- [Leetcode Core](https://github.com/tmagcaya/Internship-Bootcamp/blob/main/content/Week_2/leetcode.md)
+- [Leetcode ++](https://github.com/tmagcaya/Internship-Bootcamp/blob/main/content/Week_2/leetcode%2B%2B.md)
+- [Other Interviews (Hardware, University Lab, Startups)](https://github.com/tmagcaya/Internship-Bootcamp/blob/main/content/Week_2/other_interviews.md)
+- [Behavioral]((https://github.com/tmagcaya/Internship-Bootcamp/blob/main/content/Week_2/behavioral.md))
 
 ### Assignments:
 1. Set up a weekly technical interview prep goal with me. This will replace the 7 Leetcode per week requirement based your where you're at with your preparations
