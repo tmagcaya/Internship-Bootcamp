@@ -3,6 +3,14 @@
 Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.com/in/talha-agcayazi/)) and I'm a Senior AI Engineer @ Doordash. During my education I was offered internships at Facebook, MIT, NASA, CMU, NRL, Los Alamos and Sandia. To give back, I organize internship study groups to help undergrad and high school students find internships. My 4th cohort will begin soon. Deadline is this Friday, Sept 6th: 
 
 > **🏆 [75% Internship Offer Success Rate - Testimonials from Past Cohorts](./content/testimonials.md)**
+
+### 📁 Program Materials
+- **Week 1:** [Application Strategy, Cultural Alignment, Resume Structure, Linkedin Strategy](./content/Week_1/Week_1.md)
+- **Week 2:** [Interview Prep (Leetcode, Behavioral, Articles/Papers)](./content/Week_2/Week_2.md)
+- **Week 3:** Application Strategy (Reach/Safe), Portfolio, Github, AI native
+- **Week 4:** Email/Reachout template, Linkedin Reachout Strategy
+- **Week 5:** Prep for Return Offer, Startup Internships, Unpaid Internships, Dissemination
+> I'll open source my program as I find time, please send a PR if you want to contribute. 
 ---
 
 ## 🔥 Upcoming Virtual Study Programs
@@ -42,14 +50,6 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 
 > **Scholarships available for both tiers** - financial need should not be a barrier
 ---
-
-### 📁 Program Materials
-- **Week 1:** [Application Strategy, Cultural Alignment, Resume Structure, Linkedin Strategy](./content/Week_1/Week_1.md)
-- **Week 2:** [Interview Prep (Leetcode, Behavioral, Articles/Papers)](./content/Week_2/Week_2.md)
-- **Week 3:** Application Strategy (Reach/Safe), Portfolio, Github, AI native
-- **Week 4:** Email/Reachout template, Linkedin Reachout Strategy
-- **Week 5:** Prep for Return Offer, Startup Internships, Unpaid Internships, Dissemination
-> I'll open source my program as I find time, please send a PR if you want to contribute. 
 
 ### 🏆 Success Stories
 - [Testimonials](./content/testimonials.md) - See what past participants achieved
