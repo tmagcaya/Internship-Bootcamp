@@ -1,6 +1,6 @@
 # 🚀 Internship Bootcamp - Land Your First Internship
 
-Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.com/in/talha-agcayazi/)) and I'm a Senior AI Engineer @ Doordash. During my education I was offered internships at Facebook, MIT, NASA, CMU, NRL, Los Alamos and Sandia. To give back, I organize internship study groups to help undergrad and high school students find internships. My 4th cohort will begin soon. Deadline is this Friday, Sept 6th: 
+Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.com/in/talha-agcayazi/)) and I'm a Senior AI Engineer @ Doordash. During my education I was offered internships at Facebook, MIT, NASA, CMU, NRL, Los Alamos and Sandia. To give back, I organize internship study groups to help undergrad and high school students find internships. My 5th cohort will begin soon. Deadline is this Friday, Oct 10th: 
 
 > **🏆 [75% Internship Offer Success Rate - Testimonials from Past Cohorts](./content/testimonials.md)**
 
