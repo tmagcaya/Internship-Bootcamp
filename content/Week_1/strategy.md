@@ -24,3 +24,16 @@ You have limited time to apply, so strategizing your applications between reach 
   - First applicants get preference so use Simplify's website of internships to apply to most recent then others. 
 - Use Simplify's chrome extension to fill out applications faster (someone please add links here)
 
+### What do you want to be when you grow up? - Work in progress
+It's cliche but has a deeper side. 
+What do you want to be when you grow up may mean:
+- What would you want to do in life and if you don't do this you would regret it?
+
+If you wanted experience from life and minimal work
+If you wanted fame
+If you wanted money
+
+
+Another side to this is how you percieve the world:
+- If you think we only have 5 years before AGI, then you can probably prioritize finishing school early.
+

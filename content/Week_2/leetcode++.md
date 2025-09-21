@@ -13,4 +13,5 @@ Mastery at Leetcode requires interview practice, daily coding, company specific 
    1. Leetcode Premium will have company specific questions that you can practice ahead of time. 
    2. If you're prepping with a group (like a internship bootcamp cohort wink wink) you'll probably get interviews at similar places, you can share notes
    3. Leetcode, Glassdoor, Blind will have other people discussing company interview questions. 
-   4. Working through these questions will make sure you are prepared to the max
+   4. Join this discord server to search for online assessment (OA) tips: https://www.cscareers.dev/discord
+   5. Working through these questions will make sure you are prepared to the max
