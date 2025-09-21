@@ -13,7 +13,7 @@ I'd recommend dividing your time by 3 parts for the following weeks:
 ### Assignments:
 1. Bonus points if you can find an open source project to contribute to for next week's session
 2. Do the weekly requirements:
-   1. 20 internship applications
+   1. 20 internship applications <-- Focus on this as early applicants get preference
    2. 7 Leetcode questions
    3. 10 networking outreach messages
    4. Attendance at weekly sessions (Sundays at 10am PT)
