@@ -8,7 +8,7 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 - **Week 1:** [Application Strategy, Cultural Alignment, Resume Structure, Linkedin Strategy](./content/Week_1/Week_1.md)
 - **Week 2:** [Interview Prep: Leetcode, Behavioral, Articles/Papers](./content/Week_2/Week_2.md)
 - **Week 3:** [Motivation, Portfolio, Github, Being AI native](./content/Week_3/Week_3.md)
-- **Week 4:** Email/Reachout template, Linkedin Reachout Strategy
+- **Week 4:** [Networking: Email/Reachout template, Linkedin Reachout Strategy](./content/Week_4/Week_4.md)
 - **Week 5:** Prep for Return Offer, Startup Internships, Unpaid Internships, Dissemination
 > I'll open source my program as I find time, please send a PR if you want to contribute. 
 ---

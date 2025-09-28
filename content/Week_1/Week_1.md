@@ -4,6 +4,8 @@ TLDR: This week covers the basics to start applying. Most internships prefer can
 
 Please read the below sections and do the assignments in each section. It's easy to get stuck in an item and spend more time than necessary. Please spend less than 2 hrs for the reading and assignments. Our goal is to get the basics done this week and start applying, we will continue to improve this material. 
 
+> Many 4.0 GPA students can't find jobs due to not having internships. I would recommend prioritizing this class above other things and focusing on completing the requirements first thing every morning.  
+
 ### Reading:
 - [Application Strategy](strategy.md)
 - [Cultural Alignment](cultural_alignment.md)

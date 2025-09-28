@@ -11,7 +11,7 @@ Once you're passed the resume screen, you'll receive a technical interview. For 
 
 ### Assignments:
 1. Set up a weekly technical interview prep goal with me. This will replace the 7 Leetcode per week requirement based your where you're at with your preparations
-2. Bonus points if you can find an open source project to contribute to for next week's session
+2. Bonus points if you can find an open source project to contribute to next week's session
 3. Do the weekly requirements:
    1. 20 internship applications
    2. 7 Leetcode questions
