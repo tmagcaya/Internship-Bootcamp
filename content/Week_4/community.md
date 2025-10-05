@@ -7,7 +7,11 @@ Affinity is the simplest formula to think about when thinking about your communi
 You want to take advantage of all community you can find, the job market is tough out there you need all help you can get.
 
 Gamer friends? Sure
+
 Reddit? Yea
+
 Local mosque or other worship centers? Yes
+
 Turkish Festivals? thats where you will find me
+
 AI Tinkerer's event? Yep

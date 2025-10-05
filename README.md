@@ -9,7 +9,7 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 - **Week 2:** [Interview Prep: Leetcode, Behavioral, Articles/Papers](./content/Week_2/Week_2.md)
 - **Week 3:** [Motivation, Portfolio, Github, Being AI native](./content/Week_3/Week_3.md)
 - **Week 4:** [Networking: Email/Reachout template, Linkedin Reachout Strategy](./content/Week_4/Week_4.md)
-- **Week 5:** Prep for Return Offer, Startup Internships, Unpaid Internships, Dissemination
+- **Week 5:** [Startup Internships, University Internships, Unpaid Internships, Dissemination](./content/Week_5/Week_5.md)
 > I'll open source my program as I find time, please send a PR if you want to contribute. 
 ---
 
