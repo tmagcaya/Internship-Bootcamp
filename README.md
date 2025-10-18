@@ -1,8 +1,20 @@
 # 🚀 Internship Bootcamp - Land Your First Internship
 
-Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.com/in/talha-agcayazi/)) and I'm a Senior AI Engineer @ Doordash. During my education I was offered internships at Facebook, MIT, NASA, CMU, NRL, Los Alamos and Sandia. To give back, I organize internship study groups to help undergrad and high school students find internships. My 5th cohort will begin soon. Deadline is this Friday, Oct 10th: 
+Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.com/in/talha-agcayazi/)) and I'm a Senior AI Engineer @ Doordash. During my education I was offered internships at Facebook, MIT, NASA, CMU, NRL, Los Alamos and Sandia. To give back, I organize internship study groups to help undergrad and high school students find internships. My 5th cohort will begin soon. Deadline is this Thursday, Oct 23: 
 
 > **🏆 [75% Internship Offer Success Rate - Testimonials from Past Cohorts](./content/testimonials.md)**
+
+## 🔥 Upcoming Virtual Study Programs
+
+| Cohort | Program Dates | Applications | Status |
+|--------|--------|--------------|--------|
+| **Cohort 5** | Oct 26 - Nov 30, 2025 | [Apply Here](https://forms.gle/SQyHxPYpDDg9iV3M8) |  🟢 **Accepting Applications** *Deadline: Oct 23*  |
+| **Cohort 6** | Jan 11 - Feb 8, 2026 | [Apply Here](https://forms.gle/nobqvWC7ejqH1KLJ6) |  🟢 **Accepting Applications** *Deadline: Jan 05* |
+| **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🟡 **Opening Soon** *Applications open Feb 1* |
+
+> **Note:** Each cohort is limited to 10 Tier 1 (Insider) members. General Admission has no limit.
+
+---
 
 ### 📁 Program Materials
 - **Week 1:** [Application Strategy, Cultural Alignment, Resume Structure, Linkedin Strategy](./content/Week_1/Week_1.md)
@@ -13,18 +25,6 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 > I'll open source my program as I find time, please send a PR if you want to contribute. 
 ---
 
-## 🔥 Upcoming Virtual Study Programs
-
-| Cohort | Program Dates | Applications | Status |
-|--------|--------|--------------|--------|
-| **Cohort 4** | Sep 7 - Oct 5, 2025 | [Apply Here](https://forms.gle/8wv68873XM23tuHV9) | 🔴 **Cohort in Session** |
-| **Cohort 5** | Oct 19 - Nov 16, 2025 | [Apply Here](https://forms.gle/SQyHxPYpDDg9iV3M8) |  🟢 **Accepting Applications** *Deadline: Oct 10*  |
-| **Cohort 6** | Jan 11 - Feb 8, 2026 | [Coming Soon](#) | 🟡 **Opening Soon** *Applications open Dec 15* |
-| **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🔴 **Not Yet Open** *Applications open Feb 1* |
-
-> **Note:** Each cohort is limited to 10 Tier 1 (Insider) members. General Admission has no limit.
-
----
 
 ## 📖 About the Virtual Study Program
 
@@ -33,7 +33,7 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 - **Focus Areas:** Applications, networking, reachout templates, resume strategy
 - Must be a **US-based CS/Engineering student** who is eligible for internships to qualify
   
-### Tier 1: Insider Cohort - \$200  (only \$20/session)
+### Tier 1: Insider Cohort - \$100  (only \$20/session)
 **Limited to 10 students only**
 - ✅ 5 Weekly cohort meetings (Sundays 10 - 11:30 AM PST)
 - ✅ 5 Office hour check-ins after the weekly program ends
