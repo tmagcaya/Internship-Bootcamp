@@ -4,18 +4,6 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 
 > **🏆 [75% Internship Offer Success Rate - Testimonials from Past Cohorts](./content/testimonials.md)**
 
-## 🔥 Upcoming Virtual Study Programs
-
-| Cohort | Program Dates | Applications | Status |
-|--------|--------|--------------|--------|
-| **Cohort 5** | Oct 26 - Nov 30, 2025 | [Apply Here](https://forms.gle/SQyHxPYpDDg9iV3M8) |  🟢 **Accepting Applications** *Deadline: Oct 23*  |
-| **Cohort 6** | Jan 11 - Feb 8, 2026 | [Apply Here](https://forms.gle/nobqvWC7ejqH1KLJ6) |  🟢 **Accepting Applications** *Deadline: Jan 05* |
-| **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🟡 **Opening Soon** *Applications open Feb 1* |
-
-> **Note:** Each cohort is limited to 10 Tier 1 (Insider) members. General Admission has no limit.
-
----
-
 ### 📁 Program Materials
 - **Week 1:** [Application Strategy, Cultural Alignment, Resume Structure, Linkedin Strategy](./content/Week_1/Week_1.md)
 - **Week 2:** [Interview Prep: Leetcode, Behavioral, Articles/Papers](./content/Week_2/Week_2.md)
@@ -23,6 +11,16 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 - **Week 4:** [Networking: Email/Reachout template, Linkedin Reachout Strategy](./content/Week_4/Week_4.md)
 - **Week 5:** [Startup Internships, University Internships, Unpaid Internships, Dissemination](./content/Week_5/Week_5.md)
 > I'll open source my program as I find time, please send a PR if you want to contribute. 
+---
+## 🔥 Upcoming Virtual Study Programs
+
+| Cohort | Program Dates | Applications | Status |
+|--------|--------|--------------|--------|
+| **Cohort 6** | Jan 11 - Feb 8, 2026 | [Apply Here](https://forms.gle/nobqvWC7ejqH1KLJ6) |  🟢 **Accepting Applications** *Deadline: Jan 05* |
+| **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🟡 **Opening Soon** *Applications open Feb 1* |
+
+> **Note:** Each cohort is limited to 10 Tier 1 (Insider) members. General Admission has no limit.
+
 ---
 
 
