@@ -19,19 +19,14 @@ You have limited time to apply, so strategizing your applications between reach 
 - A cheat code anyone can use: Look at the above strategy list again. If you have class projects then complete a hobby project. If you already have that then make a youtube video demoing the project. You can do these as you are applying to internships. 
 - It doesn't matter where you do your first internship. It matters what you do there and what you learn. 
 
-### Other tips for efficiency
-- Rolling applications: 
-  - First applicants get preference so use Simplify's website of internships to apply to most recent then others. 
-- Use Simplify's chrome extension to fill out applications faster (someone please add links here)
-
 ### What do you want to be when you grow up? - Work in progress
 It's cliche but has a deeper side. 
 What do you want to be when you grow up may mean:
 - What would you want to do in life and if you don't do this you would regret it?
 
-If you wanted experience from life and minimal work
-If you wanted fame
-If you wanted money
+1. If you wanted experience from life and minimal work
+2. If you wanted fame
+3. If you wanted money
 
 
 Another side to this is how you percieve the world:

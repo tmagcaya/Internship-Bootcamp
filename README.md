@@ -10,7 +10,12 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 - **Week 3:** [Motivation, Portfolio, Github, Being AI native](./content/Week_3/Week_3.md)
 - **Week 4:** [Networking: Email/Reachout template, Linkedin Reachout Strategy](./content/Week_4/Week_4.md)
 - **Week 5:** [Startup Internships, University Internships, Unpaid Internships, Dissemination](./content/Week_5/Week_5.md)
+- **For Efficiency:** 
+  - List of most recent internships: [Simplify list of internships](https://github.com/SimplifyJobs/Summer2026-Internships?tab=readme-ov-file#-software-engineering-internship-roles) 
+  - Application Autofiller: [Simplify Copilot Chrome Extension](https://simplify.jobs/copilot)
+  - Get matched with jobs based on your resume: [Sorce](sorce.jobs), [Jobright](https://jobright.ai/)
 > I'll open source my program as I find time, please send a PR if you want to contribute. 
+
 ---
 ## 🔥 Upcoming Virtual Study Programs
 
@@ -103,7 +108,5 @@ This is currently a one-person initiative (+ amazing wife support!). Ways to hel
 - 📢 **Spread the word** to students who could benefit
 
 ---
-
-*Last updated: August 2025*
 
 **⭐ Star this repo** to stay updated with new resources and program announcements!
