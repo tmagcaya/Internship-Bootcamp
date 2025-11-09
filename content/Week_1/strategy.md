@@ -19,6 +19,10 @@ You have limited time to apply, so strategizing your applications between reach 
 - A cheat code anyone can use: Look at the above strategy list again. If you have class projects then complete a hobby project. If you already have that then make a youtube video demoing the project. You can do these as you are applying to internships. 
 - It doesn't matter where you do your first internship. It matters what you do there and what you learn. 
 
+### Take core classes early to qualify for more internships
+- 400 level classes teach you engineering concepts. 
+- As an example if you take Python and Jave in your first semester, you can add that to your resume. 
+
 ### What do you want to be when you grow up? - Work in progress
 It's cliche but has a deeper side. 
 What do you want to be when you grow up may mean:

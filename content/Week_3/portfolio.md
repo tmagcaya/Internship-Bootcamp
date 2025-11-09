@@ -5,11 +5,11 @@ Past projects will come up multiple times during your interviews. This is your o
 The interviewer questions will vary but what they want to hear stays the same. In this section we will cover strategies for success in this interview type.
 
 ### What the interviewer wants to hear (Rubric) 
-- Initiative and Motivation: Did you find the past project by asking professors, did you come up with the project, did you 
+- Initiative and Motivation: Did you find the past project by asking professors, did you come up with a side project, did you lead a group project and take it above and beyond?
 - Show evidence of learning by yourself: Find a piece of a past project where you found a new way to learn. Maybe you visited office hours more often. 
 - Show how you evaluated project options quickly before deciding on the project.
-- Have you used AI to speed up you work? _Wrote test cases, Reveiwed code, Understood existing code and documents. 
-- Have you used AI or ML in the project?
+- Have you used AI to speed up you work? Wrote test cases, Reveiwed code, Understood existing code and documents. 
+- Have you used AI or ML in a project?
 
 ### What if I don't have much to talk about?
 
