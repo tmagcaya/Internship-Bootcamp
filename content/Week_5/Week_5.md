@@ -1,5 +1,25 @@
 ## Startup Internships, University Internships, Unpaid Internships, Dissemination
 
+I started my internship journey through an unpaid university research internship. These are available in research labs in your home university and professors will be happy to work with motivated students. Some people think research might not be for them but for an undergrad intern, most of the work is actually in development so it is fully applicable to for your work experience section in your resume. 
+
+This section will cover how to apply to unconventional internships. I cover this lesson but some of these internships may be more valuable than a standard company internship. For my first internship, I worked with Dr. Sean Luke of GMU which helped me get into a paid internship at Carnegie Mellon University next summer. 
+
+
+### Reading:
+- [These positions are never posted, how do you find them?](find.md)
+- [University Research Internships](email.md)
+- [Startup Internships](career_fairs.md)
+
+### Assignments:
+1. Bonus points if you can find an open source project to contribute to next week's session
+2. Do the weekly requirements:
+   1. 20 internship applications <-- Focus on this as early applicants get preference
+   2. 7 Leetcode questions
+   3. 10 networking outreach messages
+   4. Attendance at weekly sessions (Sundays at 10am PT)
+
+
+
 This lesson will be covered through zoom.  
 
 My notes:

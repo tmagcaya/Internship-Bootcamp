@@ -11,4 +11,4 @@ Week 2:
 - Interview/Leetcode preparation strategy: Learn the patterns through the Designgurus course and master the 75 neetcode questions. 
 
 
-These two weeks are actually enough for you to apply and pass the tech interview. 
+

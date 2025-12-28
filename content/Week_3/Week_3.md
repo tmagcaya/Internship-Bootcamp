@@ -2,6 +2,8 @@
 
 With the last two weeks you now have a workable resume and a leetcode prep schedule. As you prepare for your online assessments, I want to take a slower week to review some important lessons, help improve your motivation and give tips on portfolio projects.
 
+Preparation is a marathon and not a sprint. You want to make sure you have good pace but continue to challenge yourself so you can find new ways to be more efficient. 
+
 ### Reading:
 - [Review](review.md)
 - [Motivation](motivation.md)

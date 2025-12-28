@@ -1,22 +1,9 @@
 # 🚀 Internship Bootcamp - Land Your First Internship
 
-Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.com/in/talha-agcayazi/)) and I'm a Senior AI Engineer @ Doordash. During my education I was offered internships at Facebook, MIT, NASA, CMU, NRL, Los Alamos and Sandia. To give back, I organize internship study groups to help undergrad and high school students find internships. My 5th cohort will begin soon. Deadline is this Thursday, Oct 23: 
+Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.com/in/talha-agcayazi/)) and I'm a Senior AI Engineer @ Doordash. During my education I was offered internships at Facebook, MIT, NASA, CMU, NRL, Los Alamos and Sandia. To give back, I organize internship study groups to help undergrad and high school students find internships. My 5th cohort will begin soon. Deadline is this Monday, Jan 5: 
 
 > **🏆 [75% Internship Offer Success Rate - Testimonials from Past Cohorts](./content/testimonials.md)**
 
-### 📁 Program Materials
-- **Week 1:** [Application Strategy, Cultural Alignment, Resume Structure, Linkedin Strategy](./content/Week_1/Week_1.md)
-- **Week 2:** [Interview Prep: Leetcode, Behavioral, Articles/Papers](./content/Week_2/Week_2.md)
-- **Week 3:** [Motivation, Portfolio, Github, Being AI native](./content/Week_3/Week_3.md)
-- **Week 4:** [Networking: Email/Reachout template, Linkedin Reachout Strategy](./content/Week_4/Week_4.md)
-- **Week 5:** [Startup Internships, University Internships, Unpaid Internships, Dissemination](./content/Week_5/Week_5.md)
-- **For Efficiency:** 
-  - List of most recent internships: [Simplify list of internships](https://github.com/SimplifyJobs/Summer2026-Internships?tab=readme-ov-file#-software-engineering-internship-roles) 
-  - Application Autofiller: [Simplify Copilot Chrome Extension](https://simplify.jobs/copilot)
-  - Get matched with jobs based on your resume: [Sorce](sorce.jobs), [Jobright](https://jobright.ai/)
-> I'll open source my program as I find time, please send a PR if you want to contribute. 
-
----
 ## 🔥 Upcoming Virtual Study Programs
 
 | Cohort | Program Dates | Applications | Status |
@@ -25,6 +12,22 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 | **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🟡 **Opening Soon** *Applications open Feb 1* |
 
 > **Note:** Each cohort is limited to 10 Tier 1 (Insider) members. General Admission has no limit.
+
+---
+
+### 📁 Program Materials
+- **Week 1:** [Application Strategy, Cultural Alignment, Resume Structure, Linkedin Strategy](./content/Week_1/Week_1.md)
+- **Week 2:** [Interview Prep: Leetcode, Behavioral, Articles/Papers](./content/Week_2/Week_2.md)
+- **Week 3:** [Motivation, Portfolio, Github, Being AI native](./content/Week_3/Week_3.md)
+- **Week 4:** [Networking: Email/Reachout template, Linkedin Reachout Strategy](./content/Week_4/Week_4.md)
+- **Week 5:** [Startup Internships, University Internships, Unpaid Internships, Dissemination](./content/Week_5/Week_5.md)
+- **Must Have Tools For Efficiency:** 
+  - List of most recent internships: [Simplify list of internships](https://github.com/SimplifyJobs/Summer2026-Internships?tab=readme-ov-file#-software-engineering-internship-roles) 
+  - Application Autofiller: [Simplify Copilot Chrome Extension](https://simplify.jobs/copilot)
+  - Get matched with jobs based on your resume: [Sorce](sorce.jobs), [Jobright](https://jobright.ai/)
+> I'll open source my program as I find time, please send a PR if you want to contribute. 
+
+
 
 ---
 

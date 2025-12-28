@@ -18,7 +18,7 @@ For long term motivation we need to think deeply about the list above. They effe
 
 The first step is to be aware of what effects your long term motivation, the second is to control it. 
 
-The ordering of the above list can be different for you. For me who I am around directly effects my motivation. I remember starting my CMU internship and being amazed at the quality of friends I made that summer. My project there was also cool but I probably benefited more from my friendships and things I learned from fellow interns than anything.
+The ordering of the above list can be different for you. For me, who I am around directly effects my motivation. I remember starting my CMU internship and being amazed at the quality of friends I made that summer. My project there was also cool but I probably benefited more from my friendships and things I learned from fellow interns than anything.
 
 ### Short term motivation
 - Stacking up small wins in a topic
@@ -29,9 +29,12 @@ The ordering of the above list can be different for you. For me who I am around 
 
 ### Word about distractions
 These may vary but basically the goal here is to reduce your discractions over time and focus on finishing your education with multiple internships. I paused most gaming except with high quality friends until after PhD. 
+
+Few examples of distractions:
 - Gaming
 - Short term energy hits
 - Digital short term energy hits
+- and a lot more...
 
 ### Bonus Points: Talk to more people
 My neighbor of 4 years had been living alone after a divorce. We visited him our first month in the neighborhood and gave him a pandemic care pack with a introduction post card. I visited him a few times during 4 years but didn't get to know him as I didn't want to cross any boundaries. I probably could've got to know him more if I tried harder and annoyed him a little but I chose comfort instead. Most other neighbors had families but this guy was alone. He recently passed away at a young age due to cancer. On his mantle was my post card message.
