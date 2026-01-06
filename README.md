@@ -1,6 +1,6 @@
 # 🚀 Internship Bootcamp - Land Your First Internship
 
-Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.com/in/talha-agcayazi/)) and I'm a Senior AI Engineer @ Doordash. During my education I was offered internships at Facebook, MIT, NASA, CMU, NRL, Los Alamos and Sandia. To give back, I organize internship study groups to help undergrad and high school students find internships. My 5th cohort will begin soon. Deadline is this Monday, Jan 5: 
+Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.com/in/talha-agcayazi/)) and I'm a Senior AI Engineer @ Doordash. During my education I was offered internships at Facebook, MIT, NASA, CMU, NRL, Los Alamos and Sandia. To give back, I organize internship study groups to help undergrad and high school students find internships. My 5th cohort will begin soon. Deadline is this Friday, Jan 9: 
 
 > **🏆 [75% Internship Offer Success Rate - Testimonials from Past Cohorts](./content/testimonials.md)**
 
@@ -8,7 +8,7 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 
 | Cohort | Program Dates | Applications | Status |
 |--------|--------|--------------|--------|
-| **Cohort 6** | Jan 11 - Feb 8, 2026 | [Apply Here](https://forms.gle/nobqvWC7ejqH1KLJ6) |  🟢 **Accepting Applications** *Deadline: Jan 05* |
+| **Cohort 6** | Jan 11 - Feb 8, 2026 | [Apply Here](https://forms.gle/nobqvWC7ejqH1KLJ6) |  🟢 **Accepting Applications** *Deadline: Jan 9* |
 | **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🟡 **Opening Soon** *Applications open Feb 1* |
 
 > **Note:** Each cohort is limited to 10 Tier 1 (Insider) members. General Admission has no limit.
