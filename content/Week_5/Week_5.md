@@ -22,10 +22,11 @@ This section will cover how to apply to unconventional internships. I cover this
 
 This lesson will be covered through zoom.  
 
-My notes:
+My notes on university internships:
     - most of these roles are never advertised
       - They don't have time to advertise
       - Interest and knowledge about the startup is worth a lot here.
+      - Be open minded about topics. An astronomy or biology research internship also needs CS majors to create webapps.
       - https://www.linkedin.com/search/results/companies/?companyHqGeo=%5B%22105284588%22%5D&companySize=%5B%22B%22%2C%22C%22%2C%22D%22%5D&origin=FACETED_SEARCH&sid=P6F 
     - LInkedin has a proximity filter to search for closeby startups
     - Schools have incubators

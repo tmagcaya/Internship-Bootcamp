@@ -9,6 +9,8 @@ Write another cultural alignment in networking, some students dont like to reach
 
 Hackathons are crazy important, finding a group and then going to them helps them learn and push comfort zones. This can be a good week 1 hw, find hackathons near. join as a team here... 
     Best value experience. Recruiters love to see hackathon projects etc. 
+    Devpost.com
+    mlh.io
 
 - SHow them how to do the hw from week 1. Here is how you go to my linkedin and find my contacts and add them. here is how you apply on copilot. here is how you do leetcode. 
   - Emphasize that networking is a compount interest axis. You have to connect now then message next week. Once you connect with them for 5 years then you can really ask for favors but if you wait 5 years to connect, then you're a new connection... is 
@@ -22,3 +24,5 @@ https://medium.com/@nathan_92536/a-students-guide-to-startup-internships-0f06470
 https://www.geekwire.com/geekwire-200/
 
 Remove distractions like shorts or tiktok for the 5 weeks
+
+- Find state internships like: https://www.doa.nc.gov/divisions/women-youth/state-internship-program

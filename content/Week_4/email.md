@@ -20,6 +20,10 @@ Please see previous post on what to write.
 **Be professonal in all communications! Read your messages twice before sending!** The worst thing is to spend all this time and come off as unprofessional or disrespectful.
 
 
-
+### Other Notes
+- Always send the email with your university (.edu) email address. They get priority to pass the spam filter. 
+- Schedule send your emails to the next business day at 8 am. If sending on a weekend, schedule send the email on Monday at 9 am. This will allow priority for your email as the person starting their week on Monday at 9 am will see your email first in their inbox.
+- Use ChatGPT to find university professors at local schools with experimental labs. 
+- Create a spreadsheet to track your progress.  
 
 

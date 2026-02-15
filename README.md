@@ -8,7 +8,6 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 
 | Cohort | Program Dates | Applications | Status |
 |--------|--------|--------------|--------|
-| **Cohort 6** | Jan 11 - Feb 8, 2026 | [Apply Here](https://forms.gle/nobqvWC7ejqH1KLJ6) |  🟢 **Accepting Applications** *Deadline: Jan 9* |
 | **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🟡 **Opening Soon** *Applications open Feb 1* |
 
 > **Note:** Each cohort is limited to 10 Tier 1 (Insider) members. General Admission has no limit.
