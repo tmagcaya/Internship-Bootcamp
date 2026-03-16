@@ -7,7 +7,8 @@ Leetcode has over 4k questions. Instead of attempting questions at random, I rec
 - [Blind 75 Neetcode](https://neetcode.io/practice?tab=blind75)
   - Some OG released the most asked 75 questions. I can confirm most of my interviews asked exact questions from this list. 
   - Neetcode has youtube videos on these, I'd recommend attempting them first then watching the videos. 
-  - Bingewatch these a day before your interview. 
+  - Bingewatch these a day before your interview.
+  - If you have time, I'd also recommend Neetcode 150 and weekly leetcode contests.
 
 ### Prep Recommendations
 - Practice as if you're in an interview:

@@ -26,3 +26,7 @@
 
 "I am in the final round of the hiring process with great tech startup. To be honest, this camp gave me so much insights into the hiring process, so that I was able to land this internship bypassing whole recruiting process. I literally became a top candidate for the role despite competing with applicants from the TOP schools and Ivy League, with much less work experience. I loved that we were able to talk to Company Managers with a lot of experience. Essentially, the advice that you gave us actually played out in my favor to get this internship."
 **- Grasshopper, Cohort 2** 
+
+"I have received an offer from Wells Fargo. Over the past year, I have applied to almost 2k places for internships. Talha helped me with resume reviews and I had the chance to get referrals from the guests he brought. The key things that helped me 
+during my internship search were: 1. Having a decent resume, 2. Applying early, 3. Focusing on leetcode."
+**- Fatih B, Cohort 1** 
