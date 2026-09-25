@@ -1,6 +1,6 @@
 # 🚀 Internship Bootcamp - Land Your First Internship
 
-Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.com/in/talha-agcayazi/)) and I'm a Senior AI Engineer @ Doordash. During my education I was offered internships at Facebook, MIT, NASA, CMU, NRL, Los Alamos and Sandia. To give back, I organize internship study groups to help undergrad and high school students find internships. My 5th cohort will begin soon. Deadline is this Friday, Jan 9: 
+Hi everyone, my name is [Talha Agcayazi, PhD](https://www.linkedin.com/in/talha-agcayazi/) and I'm a Senior AI Engineer @ Doordash. During my education I was offered internships at Facebook, MIT, NASA, CMU, NRL, Los Alamos and Sandia. To give back, I organize internship study groups to help undergrad and high school students find internships. My 7th cohort will begin soon. Deadline is Oct 5th: 
 
 > **🏆 [75% Internship Offer Success Rate - Testimonials from Past Cohorts](./content/testimonials.md)**
 
@@ -8,7 +8,8 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 
 | Cohort | Program Dates | Applications | Status |
 |--------|--------|--------------|--------|
-| **Cohort 7** | Feb 22 - Mar 22, 2026 | [Coming Soon](#) |  🟡 **Opening Soon** *Applications open Feb 1* |
+| **Cohort 7** | Oct 11 - Nov 8, 2026 | [Apply Here](https://forms.gle/TuvTrKhbeSg3Nmsk6) |  🟢 **Accepting Applications** *Deadline: Oct 5* |
+| **Cohort 8** | Nov 22 - Dec 20, 2026 | [Coming Soon](#) |  🟡 **Opening Soon** *Applications open Nov 1* |
 
 > **Note:** Each cohort is limited to 10 Tier 1 (Insider) members. General Admission has no limit.
 
@@ -23,7 +24,7 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 - **Must Have Tools For Efficiency:** 
   - List of most recent internships: [Simplify list of internships](https://github.com/SimplifyJobs/Summer2026-Internships?tab=readme-ov-file#-software-engineering-internship-roles) 
   - Application Autofiller: [Simplify Copilot Chrome Extension](https://simplify.jobs/copilot)
-  - Get matched with jobs based on your resume: [Sorce](sorce.jobs), [Jobright](https://jobright.ai/)
+  - Get matched with jobs based on your resume: [Sorce](https://sorce.jobs), [Jobright](https://jobright.ai/)
 > I'll open source my program as I find time, please send a PR if you want to contribute. 
 
 
@@ -38,7 +39,7 @@ Hi everyone, my name is [Talha Agcayazi, PhD]([https://](https://www.linkedin.co
 - **Focus Areas:** Applications, networking, reachout templates, resume strategy
 - Must be a **US-based CS/Engineering student** who is eligible for internships to qualify
   
-### Tier 1: Insider Cohort - \$100  (only \$20/session)
+### Tier 1: Insider Cohort - $100  (only $20/session)
 **Limited to 10 students only**
 - ✅ 5 Weekly cohort meetings (Sundays 10 - 11:30 AM PST)
 - ✅ 5 Office hour check-ins after the weekly program ends
