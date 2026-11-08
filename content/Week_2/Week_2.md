@@ -6,6 +6,8 @@ Once you're passed the resume screen, you'll receive a technical interview. For 
 - [Leetcode Prerequisites](preleetcode.md)
 - [Leetcode Core](leetcode.md)
 - [Leetcode ++](leetcode++.md)
+- [AI Codebase OAs / Interviews](ai_codebase.md)
+- [System Design](system_design.md)
 - [Other Interviews (Hardware, University Lab, Startups)](other_interviews.md)
 - [Behavioral](behavioral.md)
 
